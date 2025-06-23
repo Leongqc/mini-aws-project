@@ -46,9 +46,11 @@ Demonstrated understanding of:
 
 ## Demo Screenshot
 ![image](https://github.com/user-attachments/assets/cfb1e851-8ac5-4d27-bd9c-ed1bd9cf96d4)
+
 (accessing my website)
 
 ![image](https://github.com/user-attachments/assets/6a8fc7e4-3234-4c94-9f65-225aeaa2ce0b)
+
 (My log is transferred to S3)
 
 
